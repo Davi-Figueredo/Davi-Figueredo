@@ -6,7 +6,7 @@
 - :video_game: Eu também gosto bastante de videogames, tanto de jogá-los quanto de ver o processo criativo por trás de como um jogo é feito e como conseguem fazer tudo funcionar usando códigos.
 
 ## Estou apredendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />
 
 ## contatos:
 <div>
